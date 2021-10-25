@@ -68,7 +68,7 @@ body {
 
 }
 .articulos{
-    opacity: 0.8;
+    opacity: 1;
     width: auto;
 
     
@@ -81,7 +81,7 @@ h1,
 .tarjetas,
 .encabezado {
     border-radius: 4px;
-    background-color: rgb(223, 215, 215);
+    background-color: rgb(255, 255, 255);
     text-align: center;
     padding: 15px;
     margin: 20px;
@@ -92,7 +92,7 @@ h1,
     font-weight: bold;
     font-size: 20px;
     text-align: center;
-    background-color: rgb(182, 174, 174) !important;
+    background-color: rgb(255, 255, 255);
 }
 
 h1 {
